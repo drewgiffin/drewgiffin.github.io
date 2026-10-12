@@ -692,6 +692,17 @@ small {
 }
 
 /* purple theme overrides */
+.profile-pic-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ede7f6;
+}
+
+.profile-pic-placeholder .fa-user {
+  font-size: 60px;
+  color: #7e57c2;
+}
 .readme {
   color: #512da8;
 }
